@@ -1,7 +1,15 @@
 @import "reset";
 
-div {
+.box1 {
     background-color: hotpink;
+
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+.box2 {
+    background-color: aqua;
 
     h1 {
         font-size: 2rem;
